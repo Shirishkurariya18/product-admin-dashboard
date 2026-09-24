@@ -108,6 +108,22 @@ If the page is beyond the last page (`?page=999`), `ProductsView` moves to the r
 8. Double-click Sign in / Add product / Delete → only one request in the Network tab.
 9. Turn the network off (DevTools → Offline) and reload the list → error message with Retry; turn it on and click Retry.
 
+
+## AI Assistance
+
+AI tools were used throughout development to assist with code generation,
+debugging, implementation ideas, and understanding specific technical
+concepts.
+
+AI assistance was used for areas such as Next.js routing, React component
+structure, Axios integration, authentication, debounced search,
+request-cancellation, URL state handling, and edge-case handling.
+
+The generated suggestions were reviewed, tested, and modified to meet the
+assignment requirements. I verified the application's behavior through
+manual testing and understand the key implementation decisions.
+
+
 ## Deploy
 
 Push to GitHub, import the repo in Vercel (framework preset: Next.js, no settings needed), deploy.
