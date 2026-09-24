@@ -4,7 +4,11 @@ A small admin dashboard built with **Next.js (App Router), React, TypeScript, Ta
 A user logs in, then browses, searches, filters, sorts, views, adds, edits and deletes products.
 Data comes from the free [DummyJSON](https://dummyjson.com) API.
 
-- **Live demo:** _add your Vercel / Netlify link here_
+## Live Demo
+
+[Open the Product Admin Dashboard](https://product-admin-dashboard-eta-three.vercel.app/)
+
+
 - **Login:** username `emilys`, password `emilyspass`
 
 ## Setup
